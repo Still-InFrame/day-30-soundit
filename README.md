@@ -1,5 +1,7 @@
 # Soundit
 
+**Live:** https://soundit.100dayaichallenge.com
+
 A tap-to-match phonics game for preschoolers. A big letter appears, the app says its name and sound out loud ("B... buh"), and the child taps the picture that starts with that sound. Get 10 right and the screen erupts in confetti.
 
 Built for little fingers on a phone or tablet: huge tap targets, no reading required, no way to lose.
